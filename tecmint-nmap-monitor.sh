@@ -184,7 +184,7 @@ sudo apt-get install cron -y
 # message sent notification on mobile
 
 
-SLACK_WEBHOOK="https://hooks.slack.com/services/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"
+SLACK_WEBHOOK="https://hooks.slack.com/services/sfklndflkdfdnfljfnejkajfnbeakjbakjebkfbksekbgfkhkhbkF"
 SLACK_CHANNEL=${SLACK_CHANNEL-"testing"}
 SLACK_USERNAME=${SLACK_USERNAME-"sai"}
 
